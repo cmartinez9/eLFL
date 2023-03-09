@@ -1,6 +1,6 @@
 # Project Name
 
-[Insert project name here]
+**eLFL (Electric Little Free Library)**
 
 ## Description
 
@@ -35,5 +35,11 @@
 ## Contact
 
 [Insert your contact information here. This could include your email address, GitHub username, or any other relevant contact information.]
+Christian Martinez (cmartinez9@wisc.edu)
+Maitreyee Marathe (mmarathe@wisc.edu)
+Mridhul Baskaran (mbaskaran@wisc.edu)
+Savannah Ahnen (sahnen@wisc.edu)
+Giri Venkataramanan (giri@engr.wisc.edu)
+Bhuvana Krishnaswamy (bhuvana@ece.wisc.edu)
 
-Feel free to modify this template to fit the specific needs of your project. Good luck with your project!
+
