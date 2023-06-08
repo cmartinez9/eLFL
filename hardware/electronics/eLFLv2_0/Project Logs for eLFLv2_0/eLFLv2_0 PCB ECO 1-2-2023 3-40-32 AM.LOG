@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=12Voltage Sensor NewDesignator=12V Voltage Sensor
+Change Component Designator: OldDesignator=BATT1 NewDesignator=Battery CC
+Change Component Designator: OldDesignator=Lora Test Points1 NewDesignator=Lora Test Points
+Change Component Designator: OldDesignator=VCC1 NewDesignator=VCC
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Change Net Name : Old Net Name=Net12Voltage Sensor_2 New Net Name=Net12V Voltage Sensor_2
+Change Net Name : Old Net Name=Net12Voltage Sensor_4 New Net Name=Net12V Voltage Sensor_4
+Change Net Name : Old Net Name=Net12Voltage Sensor_5 New Net Name=Net12V Voltage Sensor_5
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Room: Name=eLFLv2_0

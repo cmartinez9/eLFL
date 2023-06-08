@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator= Q NewDesignator=Q
+Added Component: Designator=TP1(TestPoint)
+Added Component: Designator=TP3(TestPoint)
+Added Component: Designator=TP4(TestPoint)
+Added Component: Designator=TP6(TestPoint)
+Added Component: Designator=TP8(TestPoint)
+Added Pin To Net: NetName=D9-TP Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=D8-TP Pin=TP4-1
+Added Pin To Net: NetName=VCC Pin=TP6-1
+Added Pin To Net: NetName=D7-TP Pin=TP8-1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Q Voltage Sensor
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP3 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP4 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP6 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP8 Test Point
+Added Room: Name=eLFLv2_0

@@ -1,0 +1,31 @@
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Added Component: Designator=Q(Voltage Sensor)
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=VCC Pin=Q-1
+Added Pin To Net: NetName=BAT_V Pin=Q-2
+Added Pin To Net: NetName=GND Pin=Q-3
+Added Pin To Net: NetName=GND Pin=Q-4
+Added Pin To Net: NetName=BAT INPUT Pin=Q-5
+Add Class Member: Failed to add class member : Component BC1 Buck Converter
+Add Class Member: Failed to add class member : Component Output of Batt Charger Terminal Connector
+Add Class Member: Failed to add class member : Component P1 ACS723
+Add Class Member: Failed to add class member : Component P3 ACS723
+Add Class Member: Failed to add class member : Component P5 Real Time Clock
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Q Voltage Sensor
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Add Class Member: Failed to add class member : Component U2 ABX00053
+Add Class Member: Failed to add class member : Component U3 RF95 Module
+Add Class Member: Failed to add class member : Component U4 Lora_Testpoints
+Add Class Member: Failed to add class member : Component USB1 Fuse 3568
+Add Class Member: Failed to add class member : Component USB2 Fuse 3568
+Added Room: Name=eLFLv2_0

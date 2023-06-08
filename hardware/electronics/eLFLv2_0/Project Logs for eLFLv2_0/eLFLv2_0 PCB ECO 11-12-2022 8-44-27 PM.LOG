@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=Vin Pin=U1-14
+Removed Pin From Net: NetName=Vin Pin=U1-19
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin BATT1-1
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin Temp Sense-1
+Add Pin To Net: Unknown Pin: Pin TX1-1
+Add Class Member: Failed to add class member : Component 1 Test Point
+Add Class Member: Failed to add class member : Component 2 Test Point
+Add Class Member: Failed to add class member : Component BATT1 Test Point
+Add Class Member: Failed to add class member : Component DS1 Test Point
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Add Class Member: Failed to add class member : Component Temp Sense Test Point
+Add Class Member: Failed to add class member : Component TX1 Test Point
+Added Room: Name=eLFLv2_0

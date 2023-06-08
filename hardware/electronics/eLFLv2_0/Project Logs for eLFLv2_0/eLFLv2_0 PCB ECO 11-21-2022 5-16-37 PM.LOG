@@ -1,0 +1,48 @@
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=12Voltage Sensor(Voltage Sensor)
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=Battery Current Sensor1(Current Sensor)
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=Load Current Sensor1(Current Sensor)
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 2-1
+Added Pin To Net: NetName=GND Pin=12Voltage Sensor-1
+Added Pin To Net: NetName=Net12Voltage Sensor_2 Pin=12Voltage Sensor-2
+Added Pin To Net: NetName=GND Pin=12Voltage Sensor-3
+Added Pin To Net: NetName=Net12Voltage Sensor_4 Pin=12Voltage Sensor-4
+Added Pin To Net: NetName=Net12Voltage Sensor_5 Pin=12Voltage Sensor-5
+Add Pin To Net: Unknown Pin: Pin BATT1-1
+Added Pin To Net: NetName=VCC Pin=Battery Current Sensor1-1
+Added Pin To Net: NetName=NetBattery Current Sensor1_2 Pin=Battery Current Sensor1-2
+Added Pin To Net: NetName=GND Pin=Battery Current Sensor1-3
+Added Pin To Net: NetName=Battery CC Pin=Battery Current Sensor1-4
+Added Pin To Net: NetName=Net12Voltage Sensor_2 Pin=Battery Current Sensor1-5
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Added Pin To Net: NetName=VCC Pin=Load Current Sensor1-1
+Added Pin To Net: NetName=NetLoad Current Sensor1_2 Pin=Load Current Sensor1-2
+Added Pin To Net: NetName=GND Pin=Load Current Sensor1-3
+Added Pin To Net: NetName=5V Pin=Load Current Sensor1-4
+Added Pin To Net: NetName=NetF1_4 Pin=Load Current Sensor1-5
+Add Pin To Net: Unknown Pin: Pin Temp Sense-1
+Add Pin To Net: Unknown Pin: Pin TX1-1
+Add Class Member: Failed to add class member : Component 1 Test Point
+Add Class Member: Failed to add class member : Component 2 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 12Voltage Sensor Voltage Sensor
+Add Class Member: Failed to add class member : Component BATT1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Battery Current Sensor1 ACS723
+Add Class Member: Failed to add class member : Component DS1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Load Current Sensor1 ACS723
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Add Class Member: Failed to add class member : Component Temp Sense Test Point
+Add Class Member: Failed to add class member : Component TX1 Test Point
+Added Room: Name=eLFLv2_0

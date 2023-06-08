@@ -1,0 +1,637 @@
+Removed Pin From Net: NetName=GND Pin= -2
+Removed Pin From Net: NetName=5V Pin=5V-1
+Removed Pin From Net: NetName=GND Pin=12V Battery-2
+Removed Pin From Net: NetName=LORA_SCK Pin=Arduino Nano Port-1
+Removed Pin From Net: NetName=TMP Pin=Arduino Nano Port-4
+Removed Pin From Net: NetName=GND Pin=Arduino Nano Port-14
+Removed Pin From Net: NetName=5V Pin=Arduino Nano Port-15
+Removed Pin From Net: NetName=RX Pin=Arduino Nano Port-16
+Removed Pin From Net: NetName=GND Pin=Arduino Nano Port-19
+Removed Pin From Net: NetName=RED_LED Pin=Arduino Nano Port-20
+Removed Pin From Net: NetName=LORA_G0 Pin=Arduino Nano Port-21
+Removed Pin From Net: NetName=LORA_EN Pin=Arduino Nano Port-22
+Removed Pin From Net: NetName=GRN_LED Pin=Arduino Nano Port-23
+Removed Pin From Net: NetName=DOOR SENSE Pin=Arduino Nano Port-24
+Removed Pin From Net: NetName=D7-TP Pin=Arduino Nano Port-25
+Removed Pin From Net: NetName=D8-TP Pin=Arduino Nano Port-26
+Removed Pin From Net: NetName=D9-TP Pin=Arduino Nano Port-27
+Removed Pin From Net: NetName=LORA_CS Pin=Arduino Nano Port-28
+Removed Pin From Net: NetName=LORA_MOSI Pin=Arduino Nano Port-29
+Removed Pin From Net: NetName=LORA_MISO Pin=Arduino Nano Port-30
+Removed Pin From Net: NetName=GND Pin=Battery Current Sensor-3
+Removed Pin From Net: NetName=GND Pin=Buck Converter-2
+Removed Pin From Net: NetName=5V Pin=Buck Converter-3
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=D7-TP Pin=D7-1
+Removed Pin From Net: NetName=D8-TP Pin=D8-1
+Removed Pin From Net: NetName=D9-TP Pin=D9-1
+Removed Pin From Net: NetName=DOOR SENSE Pin=Door Sensor-1
+Removed Pin From Net: NetName=GND Pin=Door Sensor-2
+Removed Pin From Net: NetName=DOOR SENSE Pin=DS-1
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=GRN_LED Pin=Green-2
+Removed Pin From Net: NetName=GND Pin=Load Current Sensor-3
+Removed Pin From Net: NetName=GND Pin=Lora Module-2
+Removed Pin From Net: NetName=LORA_EN Pin=Lora Module-3
+Removed Pin From Net: NetName=LORA_G0 Pin=Lora Module-4
+Removed Pin From Net: NetName=LORA_SCK Pin=Lora Module-5
+Removed Pin From Net: NetName=LORA_MISO Pin=Lora Module-6
+Removed Pin From Net: NetName=LORA_MOSI Pin=Lora Module-7
+Removed Pin From Net: NetName=LORA_CS Pin=Lora Module-8
+Removed Pin From Net: NetName=GND Pin=Lora Test Points-2
+Removed Pin From Net: NetName=LORA_EN Pin=Lora Test Points-3
+Removed Pin From Net: NetName=LORA_G0 Pin=Lora Test Points-4
+Removed Pin From Net: NetName=LORA_SCK Pin=Lora Test Points-5
+Removed Pin From Net: NetName=LORA_MISO Pin=Lora Test Points-6
+Removed Pin From Net: NetName=LORA_MOSI Pin=Lora Test Points-7
+Removed Pin From Net: NetName=LORA_CS Pin=Lora Test Points-8
+Removed Pin From Net: NetName=GND Pin=Output of Batt Charger-2
+Removed Pin From Net: NetName=RX Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=LORA_EN Pin=R3-2
+Removed Pin From Net: NetName=DOOR SENSE Pin=R4-2
+Removed Pin From Net: NetName=RED_LED Pin=Red-2
+Removed Pin From Net: NetName=GND Pin=RTC-4
+Removed Pin From Net: NetName=GND Pin=T3-2
+Removed Pin From Net: NetName=GND Pin=T4-2
+Removed Pin From Net: NetName=TMP Pin=Temperature Sensor-2
+Removed Pin From Net: NetName=GND Pin=Temperature Sensor-3
+Removed Pin From Net: NetName=RX Pin=TX-1
+Removed Pin From Net: NetName=GND Pin=USB1-2
+Removed Pin From Net: NetName=GND Pin=Voltage Sensor-3
+Removed Pin From Net: NetName=GND Pin=Voltage Sensor-4
+Removed Member From Class: ClassName=eLFLv2_0 Member=5V
+Removed Member From Class: ClassName=eLFLv2_0 Member=12V Battery
+Removed Member From Class: ClassName=eLFLv2_0 Member=12V
+Removed Member From Class: ClassName=eLFLv2_0 Member=Arduino Nano Port
+Removed Member From Class: ClassName=eLFLv2_0 Member=Battery Current Sensor
+Removed Member From Class: ClassName=eLFLv2_0 Member=Battery Fuse
+Removed Member From Class: ClassName=eLFLv2_0 Member=BATT
+Removed Member From Class: ClassName=eLFLv2_0 Member=Buck Converter
+Removed Member From Class: ClassName=eLFLv2_0 Member=D7
+Removed Member From Class: ClassName=eLFLv2_0 Member=D8
+Removed Member From Class: ClassName=eLFLv2_0 Member=D9
+Removed Member From Class: ClassName=eLFLv2_0 Member=Door Sensor
+Removed Member From Class: ClassName=eLFLv2_0 Member=DS
+Removed Member From Class: ClassName=eLFLv2_0 Member=GND
+Removed Member From Class: ClassName=eLFLv2_0 Member=Green
+Removed Member From Class: ClassName=eLFLv2_0 Member=I1
+Removed Member From Class: ClassName=eLFLv2_0 Member=Load Current Sensor
+Removed Member From Class: ClassName=eLFLv2_0 Member=Lora Module
+Removed Member From Class: ClassName=eLFLv2_0 Member=Lora Test Points
+Removed Member From Class: ClassName=eLFLv2_0 Member=Output of Batt Charger
+Removed Member From Class: ClassName=eLFLv2_0 Member=P2
+Removed Member From Class: ClassName=eLFLv2_0 Member=Red
+Removed Member From Class: ClassName=eLFLv2_0 Member=RTC
+Removed Member From Class: ClassName=eLFLv2_0 Member=T4
+Removed Member From Class: ClassName=eLFLv2_0 Member=Temperature Sensor
+Removed Member From Class: ClassName=eLFLv2_0 Member=TX
+Removed Member From Class: ClassName=eLFLv2_0 Member=USB1 Fuse
+Removed Member From Class: ClassName=eLFLv2_0 Member=USB2 Fuse
+Removed Member From Class: ClassName=eLFLv2_0 Member=VCC
+Removed Member From Class: ClassName=eLFLv2_0 Member=Voltage Sensor
+Change Component Footprint: Designator=C1 Old Footprint=Capacitor New Footprint=RAD-0.3
+Change Component Footprint: Designator=C4 Old Footprint=Ceramic Capacitor New Footprint=Capacitor
+Change Component Footprint: Designator=C3 Old Footprint=Ceramic Capacitor New Footprint=RAD-0.3
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=Capacitor
+Change Component Footprint: Designator=USB1 Old Footprint=Terminal Block New Footprint=Anderson Power Pole
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C1 Old Comment=10uF New Comment=1uF
+Change Component Comment : Designator=C3 Old Comment=10uF New Comment=1uF
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Capacitor"; UniqueID = "\PXKGYAHD" ("\PXKGYAHD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "RAD-0.3"; UniqueID = "\PUHDHJFD" ("\PUHDHJFD")
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CDE Illinois Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "106CKS450MLU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "106CKS450MLU-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "Ceramic Capacitor"; UniqueID = "\YKEUPMQH" ("\YKEUPMQH")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Ceramic Capacitor"; UniqueID = "\JKKUTDPB" ("\JKKUTDPB")
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CDE Illinois Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "106CKS450MLU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "106CKS450MLU-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=12 V Battery Input(Anderson Power Pole)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.21000, 10=1.16200, 50=1.11100, 100=1.08070, 250=1.01000, 500=0.92920, 1000=0.85850, 2500=0.81810, 5000=0.77770 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = "CSA,CUL,CB,EAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "54422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = "1.5mm2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "16AWG"; VariantName = "[No Variations]"
+Added Component: Designator=12Voltage Sensor(Voltage Sensor)
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=Battery Charge Control Output1(Anderson Power Pole)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.21000, 10=1.16200, 50=1.11100, 100=1.08070, 250=1.01000, 500=0.92920, 1000=0.85850, 2500=0.81810, 5000=0.77770 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = "CSA,CUL,CB,EAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "54422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = "1.5mm2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "16AWG"; VariantName = "[No Variations]"
+Added Component: Designator=Battery Current Sensor1(Current Sensor)
+Added Component: Designator=C5(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capacitor)
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CDE Illinois Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "106CKS450MLU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "106CKS450MLU-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1(0.038_Brass Testpoints)
+Added Component: Designator=D2(0.038_Brass Testpoints)
+Added Component: Designator=D3(0.038_Brass Testpoints)
+Added Component: Designator=Door Sensor1(Anderson Power Pole)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.21000, 10=1.16200, 50=1.11100, 100=1.08070, 250=1.01000, 500=0.92920, 1000=0.85850, 2500=0.81810, 5000=0.77770 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = "CSA,CUL,CB,EAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "54422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = "1.5mm2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "16AWG"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=F1(Fuse)
+Add component (AddParameter): Name = "Category"; Value = "Fuse Holders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/KEYC/KEYC-S-A0001230927/KEYC-S-A0001230927-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/KEYC/KEYC-S-A0001230927/KEYC-S-A0001230927-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16874/70182101-16874378.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16874/70182101-16874378.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.33000, 25=1.10240, 100=1.01060, 250=0.91868, 500=0.82682, 1000=0.73496, 2500=0.66606, 5000=0.64309 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "22984"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3568-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fuse)
+Add component (AddParameter): Name = "Category"; Value = "Fuse Holders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/KEYC/KEYC-S-A0001230927/KEYC-S-A0001230927-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/KEYC/KEYC-S-A0001230927/KEYC-S-A0001230927-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16874/70182101-16874378.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16874/70182101-16874378.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.33000, 25=1.10240, 100=1.01060, 250=0.91868, 500=0.82682, 1000=0.73496, 2500=0.66606, 5000=0.64309 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "22984"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3568-ND"; VariantName = "[No Variations]"
+Added Component: Designator=GND1(0.038_Brass Testpoints)
+Added Component: Designator=Green1(AVAG-HLMP-3301-2)
+Add component (AddParameter): Name = "Chip Material"; Value = "GaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.avagotech.com/docs/AV02-1558EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DELETED"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wave Length"; Value = "626nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Brightness"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Dimensions"; Value = "5.08x5.08x8.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Type"; Value = "ColoredDiffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lum Intensity"; Value = "5.4mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "5.4mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Main Category"; Value = "StandardLED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Avago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avagotech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-40Cto100C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole LED, Dia 5.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "HLMP-3301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "T-13/4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "85W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "9.19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape Type"; Value = "Circular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current (It)"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Uni-Color"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "60deg"; VariantName = "[No Variations]"
+Added Component: Designator=Load Current Sensor1(Current Sensor)
+Added Component: Designator=Load Output1(Anderson Power Pole)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.21000, 10=1.16200, 50=1.11100, 100=1.08070, 250=1.01000, 500=0.92920, 1000=0.85850, 2500=0.81810, 5000=0.77770 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = "CSA,CUL,CB,EAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "54422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = "1.5mm2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "16AWG"; VariantName = "[No Variations]"
+Added Component: Designator=Lora Module1(RF95)
+Added Component: Designator=Lora Test Points1(LORA TESTPOINTS)
+Added Component: Designator=P1(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Red1(AVAG-HLMP-3301-2)
+Add component (AddParameter): Name = "Chip Material"; Value = "GaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.avagotech.com/docs/AV02-1558EN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DELETED"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wave Length"; Value = "626nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Brightness"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Dimensions"; Value = "5.08x5.08x8.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Type"; Value = "ColoredDiffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lum Intensity"; Value = "5.4mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "5.4mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Main Category"; Value = "StandardLED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Avago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avagotech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-40Cto100C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole LED, Dia 5.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "HLMP-3301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "T-13/4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "85W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "9.19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape Type"; Value = "Circular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current (It)"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Uni-Color"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "60deg"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Component: Designator=Temperature Sensor1(HDR1X3)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-226-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/TMP35_36_37.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/TO-92(T)/T_3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Product URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.analog.com/en/mems-sensors/digital-temperature-sensors/tmp36/products/product.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Plastic Header-Style Package, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "T-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "042208-A, 04/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TMP36GT9Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Range"; Value = "2.7 to 5.5 V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=U1(Arduino Nano Every)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Arduino'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABX00053"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB2(Anderson Power Pole)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0008047989/PCON-S-A0008036843-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-199310-15169845.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/823/1729128-823779.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14607/70054405-14607157.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/29218/743664-da-01-en-printklemmenblock-mkdsn-1-5-2-5-08-29218154.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.21000, 10=1.16200, 50=1.11100, 100=1.08070, 250=1.01000, 500=0.92920, 1000=0.85850, 2500=0.81810, 5000=0.77770 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = "CSA,CUL,CB,EAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "54422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1247-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = "1.5mm2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "16AWG"; VariantName = "[No Variations]"
+Added Component: Designator=VCC1(0.038_Brass Testpoints)
+Add Pin To Net: Unknown Pin: Pin *1-2
+Add Pin To Net: Unknown Pin: Pin 2-1
+Added Pin To Net: NetName=GND Pin=Battery Current Sensor1-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=D9-TP Pin=D1-1
+Added Pin To Net: NetName=D8-TP Pin=D2-1
+Added Pin To Net: NetName=D7-TP Pin=D3-1
+Added Pin To Net: NetName=DOOR SENSE Pin=Door Sensor1-1
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Added Pin To Net: NetName=GRN_LED Pin=Green1-2
+Added Pin To Net: NetName=GND Pin=Load Current Sensor1-1
+Added Pin To Net: NetName=5V Pin=Load Current Sensor1-4
+Added Pin To Net: NetName=5V Pin=Load Output1-1
+Added Pin To Net: NetName=GND Pin=Lora Module1-1
+Added Pin To Net: NetName=LORA_EN Pin=Lora Module1-3
+Added Pin To Net: NetName=LORA_G0 Pin=Lora Module1-4
+Added Pin To Net: NetName=LORA_SCK Pin=Lora Module1-5
+Added Pin To Net: NetName=LORA_MISO Pin=Lora Module1-6
+Added Pin To Net: NetName=LORA_MOSI Pin=Lora Module1-7
+Added Pin To Net: NetName=LORA_CS Pin=Lora Module1-8
+Added Pin To Net: NetName=GND Pin=Lora Module1-9
+Added Pin To Net: NetName=GND Pin=Lora Test Points1-1
+Added Pin To Net: NetName=LORA_EN Pin=Lora Test Points1-3
+Added Pin To Net: NetName=LORA_G0 Pin=Lora Test Points1-4
+Added Pin To Net: NetName=LORA_SCK Pin=Lora Test Points1-5
+Added Pin To Net: NetName=LORA_MISO Pin=Lora Test Points1-6
+Added Pin To Net: NetName=LORA_MOSI Pin=Lora Test Points1-7
+Added Pin To Net: NetName=LORA_CS Pin=Lora Test Points1-8
+Added Pin To Net: NetName=GND Pin=Lora Test Points1-9
+Added Pin To Net: NetName=RX Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=DOOR SENSE Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=RED_LED Pin=Red1-2
+Added Pin To Net: NetName=TMP Pin=Temperature Sensor1-2
+Add Pin To Net: Unknown Pin: Pin Temp Sense-1
+Add Pin To Net: Unknown Pin: Pin TX1-1
+Added Pin To Net: NetName=LORA_SCK Pin=U1-1
+Added Pin To Net: NetName=TMP Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=RX Pin=U1-16
+Added Pin To Net: NetName=RED_LED Pin=U1-20
+Added Pin To Net: NetName=LORA_G0 Pin=U1-21
+Added Pin To Net: NetName=LORA_EN Pin=U1-22
+Added Pin To Net: NetName=GRN_LED Pin=U1-23
+Added Pin To Net: NetName=DOOR SENSE Pin=U1-24
+Added Pin To Net: NetName=D7-TP Pin=U1-25
+Added Pin To Net: NetName=D8-TP Pin=U1-26
+Added Pin To Net: NetName=D9-TP Pin=U1-27
+Added Pin To Net: NetName=LORA_CS Pin=U1-28
+Added Pin To Net: NetName=LORA_MOSI Pin=U1-29
+Added Pin To Net: NetName=LORA_MISO Pin=U1-30
+Added Pin To Net: NetName=GND Pin=VCC1-1
+Change Net Name : Old Net Name=GND New Net Name=VCC
+Added Pin To Net: NetName=12V Pin=12 V Battery Input-1
+Added Pin To Net: NetName=12V Pin=12Voltage Sensor-2
+Added Pin To Net: NetName=12V Pin=Battery Current Sensor1-5
+Added Net: Name=12V
+Added Pin To Net: NetName=Battery CC Pin=Battery Charge Control Output1-1
+Added Pin To Net: NetName=Battery CC Pin=Battery Current Sensor1-4
+Added Net: Name=Battery CC
+Added Pin To Net: NetName=GND Pin=12 V Battery Input-2
+Added Pin To Net: NetName=GND Pin=12Voltage Sensor-1
+Added Pin To Net: NetName=GND Pin=12Voltage Sensor-3
+Added Pin To Net: NetName=GND Pin=Battery Charge Control Output1-2
+Added Pin To Net: NetName=GND Pin=Battery Current Sensor1-3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=Door Sensor1-2
+Added Pin To Net: NetName=GND Pin=F1-4
+Added Pin To Net: NetName=GND Pin=F2-4
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Pin To Net: NetName=GND Pin=Load Current Sensor1-3
+Added Pin To Net: NetName=GND Pin=Load Current Sensor1-5
+Added Pin To Net: NetName=GND Pin=Load Output1-2
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=Temperature Sensor1-1
+Added Pin To Net: NetName=GND Pin=Temperature Sensor1-3
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=USB1-2
+Added Pin To Net: NetName=GND Pin=USB2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net12Voltage Sensor_5 Pin=12Voltage Sensor-5
+Added Pin To Net: NetName=Net12Voltage Sensor_5 Pin=U1-7
+Added Net: Name=Net12Voltage Sensor_5
+Added Pin To Net: NetName=Net*1_3 Pin=U1-8
+Added Net: Name=Net*1_3
+Added Pin To Net: NetName=Net*1_4 Pin=U1-9
+Added Net: Name=Net*1_4
+Added Pin To Net: NetName=NetBattery Current Sensor1_2 Pin=Battery Current Sensor1-2
+Added Pin To Net: NetName=NetBattery Current Sensor1_2 Pin=U1-6
+Added Net: Name=NetBattery Current Sensor1_2
+Added Pin To Net: NetName=NetF1_ 1 Pin=USB1-1
+Added Pin To Net: NetName=NetF1_ 1 Pin=F1-1
+Added Net: Name=NetF1_ 1
+Added Pin To Net: NetName=NetF2_ 1 Pin=USB2-1
+Added Pin To Net: NetName=NetF2_ 1 Pin=F2-1
+Added Net: Name=NetF2_ 1
+Added Pin To Net: NetName=NetGreen1_1 Pin=Green1-1
+Added Pin To Net: NetName=NetGreen1_1 Pin=R3-1
+Added Net: Name=NetGreen1_1
+Added Pin To Net: NetName=NetLoad Current Sensor1_2 Pin=Load Current Sensor1-2
+Added Pin To Net: NetName=NetLoad Current Sensor1_2 Pin=U1-5
+Added Net: Name=NetLoad Current Sensor1_2
+Added Pin To Net: NetName=NetLora Module1_2 Pin=Lora Module1-2
+Added Pin To Net: NetName=NetLora Module1_2 Pin=R1-1
+Added Net: Name=NetLora Module1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=Red1-1
+Added Net: Name=NetR2_2
+Add Class Member: Failed to add class member : Component *1 RTC Breakout Board
+Add Class Member: Failed to add class member : Component 1 Test Point
+Add Class Member: Failed to add class member : Component 2 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 12 V Battery Input Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 12Voltage Sensor Voltage Sensor
+Add Class Member: Failed to add class member : Component BATT1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Battery Charge Control Output1 Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Battery Current Sensor1 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C5 1uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C6 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D2 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D3 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Door Sensor1 Terminal Connector
+Add Class Member: Failed to add class member : Component DS1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component F1 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component F2 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component GND1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Green1 HLMP-3301
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Load Current Sensor1 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Load Output1 Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Lora Module1 RF95 Module
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Lora Test Points1 Lora_Testpoints
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P1 OpenLog
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Red1 HLMP-3301
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Temperature Sensor1 TMP36GT9Z
+Add Class Member: Failed to add class member : Component Temp Sense Test Point
+Add Class Member: Failed to add class member : Component TX1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U1 ABX00053
+Added Member To Class: ClassName=eLFLv2_0 Member=Component USB2 Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component VCC1 Test Point
+Added Room: Name=eLFLv2_0

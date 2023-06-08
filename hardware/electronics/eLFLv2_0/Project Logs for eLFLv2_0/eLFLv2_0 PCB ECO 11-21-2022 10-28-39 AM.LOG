@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=12V Pin=12Voltage Sensor-2
+Removed Pin From Net: NetName=12V Pin=Battery Current Sensor1-5
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=F3(Fuse)
+Add component (AddParameter): Name = "Category"; Value = "Fuse Holders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/KEYC/KEYC-S-A0001230927/KEYC-S-A0001230927-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/KEYC/KEYC-S-A0001230927/KEYC-S-A0001230927-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16874/70182101-16874378.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16874/70182101-16874378.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3568"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.33000, 25=1.10240, 100=1.01060, 250=0.91868, 500=0.82682, 1000=0.73496, 2500=0.66606, 5000=0.64309 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "22984"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3568-ND"; VariantName = "[No Variations]"
+Added Component: Designator=OpenLog(OpenLog Breakout Board)
+Added Component: Designator=RTC(RTC Breakout Board)
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin BATT1-1
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Added Pin To Net: NetName=12V Pin=F3-1
+Added Pin To Net: NetName=RX Pin=OpenLog-2
+Added Pin To Net: NetName=VCC Pin=OpenLog-4
+Added Pin To Net: NetName=GND Pin=OpenLog-5
+Added Pin To Net: NetName=GND Pin=RTC-1
+Added Pin To Net: NetName=VCC Pin=RTC-2
+Add Pin To Net: Unknown Pin: Pin Temp Sense-1
+Add Pin To Net: Unknown Pin: Pin TX1-1
+Added Pin To Net: NetName=Net12Voltage Sensor_2 Pin=12Voltage Sensor-2
+Added Pin To Net: NetName=Net12Voltage Sensor_2 Pin=Battery Current Sensor1-5
+Added Pin To Net: NetName=Net12Voltage Sensor_2 Pin=F3-4
+Added Net: Name=Net12Voltage Sensor_2
+Added Pin To Net: NetName=NetRTC_3 Pin=RTC-3
+Added Pin To Net: NetName=NetRTC_3 Pin=U1-8
+Added Net: Name=NetRTC_3
+Added Pin To Net: NetName=NetRTC_4 Pin=RTC-4
+Added Pin To Net: NetName=NetRTC_4 Pin=U1-9
+Added Net: Name=NetRTC_4
+Add Class Member: Failed to add class member : Component 1 Test Point
+Add Class Member: Failed to add class member : Component 2 Test Point
+Add Class Member: Failed to add class member : Component BATT1 Test Point
+Add Class Member: Failed to add class member : Component DS1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component F3 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component OpenLog Open Log
+Added Member To Class: ClassName=eLFLv2_0 Member=Component RTC RTC Breakout Board
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Add Class Member: Failed to add class member : Component Temp Sense Test Point
+Add Class Member: Failed to add class member : Component TX1 Test Point
+Added Room: Name=eLFLv2_0

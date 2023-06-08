@@ -1,0 +1,13 @@
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator= NewDesignator=T3
+Change Component Designator: OldDesignator=P1 NewDesignator=Load Current Sensor
+Change Component Designator: OldDesignator=P3 NewDesignator=Battery Current Sensor
+Change Component Designator: OldDesignator=P5 NewDesignator=RTC
+Change Component Designator: OldDesignator=Q NewDesignator=Voltage Sensor
+Change Component Designator: OldDesignator=U1 NewDesignator=Temperature Sensor
+Change Component Designator: OldDesignator=U2 NewDesignator=Arduino Nano Port
+Change Component Designator: OldDesignator=U4 NewDesignator=Lora Test Points
+Change Component Designator: OldDesignator=USB1 Fuse(2A) NewDesignator=USB1 Fuse
+Change Component Designator: OldDesignator=USB2 Fuse (2A) NewDesignator=USB2 Fuse
+Change Net Name : Old Net Name=NetBC1_1 New Net Name=NetBuck Converter_1
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetLoad Current Sensor_4

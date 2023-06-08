@@ -1,0 +1,26 @@
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Added Component: Designator=I1(Inductor)
+Add component (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Recom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RLS-126-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.92000, 5=0.83400, 10=0.82100, 25=0.79680, 50=0.77280, 100=0.74860, 250=0.72448, 500=0.67620 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1175"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "945-RLS-126-RDKR-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=NetBC1_1 Pin=I1-1
+Added Pin To Net: NetName=LOAD INPUT Pin=I1-2
+Added Member To Class: ClassName=eLFLv2_0 Member=Component I1 12uF
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Room: Name=eLFLv2_0

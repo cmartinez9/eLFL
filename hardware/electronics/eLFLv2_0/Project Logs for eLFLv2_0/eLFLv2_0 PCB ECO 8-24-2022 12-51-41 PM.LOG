@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=TPCC NewDesignator=VCC
+Change Component Designator: OldDesignator=TPG NewDesignator=GND
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Class Member: Failed to add class member : Component P1 ACS723
+Add Class Member: Failed to add class member : Component P3 ACS723
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Room: Name=eLFLv2_0

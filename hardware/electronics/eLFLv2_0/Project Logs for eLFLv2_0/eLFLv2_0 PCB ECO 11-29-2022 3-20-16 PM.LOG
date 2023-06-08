@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator= NewDesignator=Temp Sense
+Change Component Designator: OldDesignator=5V NewDesignator=2
+Change Component Designator: OldDesignator=12V NewDesignator=1
+Change Component Designator: OldDesignator=BATT NewDesignator=BATT1
+Change Component Designator: OldDesignator=D7 NewDesignator=D3
+Change Component Designator: OldDesignator=D8 NewDesignator=D2
+Change Component Designator: OldDesignator=D9 NewDesignator=D1
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=NetF1_4 Pin=U1-15
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 2 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component BATT1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Battery Charge Control Output1 Terminal Connector
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Temp Sense Test Point
+Added Room: Name=eLFLv2_0

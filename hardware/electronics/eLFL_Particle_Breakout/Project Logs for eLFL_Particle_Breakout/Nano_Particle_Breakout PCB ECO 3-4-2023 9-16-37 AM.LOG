@@ -1,0 +1,78 @@
+Added Component: Designator=U1(MODULE_ABX00028)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Arduino'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABX00028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(Particle_Module)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Adafruit Industries'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FEATHER_M0_BASIC_PROTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_CUR Pin=U1-6
+Added Pin To Net: NetName=BAT_CUR Pin=U?-P1_10
+Added Net: Name=BAT_CUR
+Added Pin To Net: NetName=BAT_V Pin=U1-7
+Added Pin To Net: NetName=BAT_V Pin=U?-P1_9
+Added Net: Name=BAT_V
+Added Pin To Net: NetName=D7_TP Pin=U1-25
+Added Pin To Net: NetName=D7_TP Pin=U?-P2_5
+Added Net: Name=D7_TP
+Added Pin To Net: NetName=D8_TP Pin=U1-26
+Added Pin To Net: NetName=D8_TP Pin=U?-P2_4
+Added Net: Name=D8_TP
+Added Pin To Net: NetName=DOOR_SENSE Pin=U1-24
+Added Pin To Net: NetName=DOOR_SENSE Pin=U?-P2_8
+Added Net: Name=DOOR_SENSE
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U?-P1_13
+Added Net: Name=GND
+Added Pin To Net: NetName=GRN_LED Pin=U1-23
+Added Pin To Net: NetName=GRN_LED Pin=U?-P2_6
+Added Net: Name=GRN_LED
+Added Pin To Net: NetName=LOAD_CUR Pin=U1-5
+Added Pin To Net: NetName=LOAD_CUR Pin=U?-P1_11
+Added Net: Name=LOAD_CUR
+Added Pin To Net: NetName=LORA_CS Pin=U1-28
+Added Pin To Net: NetName=LORA_CS Pin=U?-P1_7
+Added Net: Name=LORA_CS
+Added Pin To Net: NetName=LORA_EN Pin=U1-22
+Added Pin To Net: NetName=LORA_EN Pin=U?-P2_9
+Added Net: Name=LORA_EN
+Added Pin To Net: NetName=LORA_G0 Pin=U1-21
+Added Pin To Net: NetName=LORA_G0 Pin=U?-P2_10
+Added Net: Name=LORA_G0
+Added Pin To Net: NetName=LORA_MISO Pin=U1-30
+Added Pin To Net: NetName=LORA_MISO Pin=U?-P1_4
+Added Net: Name=LORA_MISO
+Added Pin To Net: NetName=LORA_MOSI Pin=U1-29
+Added Pin To Net: NetName=LORA_MOSI Pin=U?-P1_5
+Added Net: Name=LORA_MOSI
+Added Pin To Net: NetName=LORA_SCK Pin=U1-1
+Added Pin To Net: NetName=LORA_SCK Pin=U?-P1_6
+Added Net: Name=LORA_SCK
+Added Pin To Net: NetName=OPEN_TX Pin=U1-16
+Added Pin To Net: NetName=OPEN_TX Pin=U?-P1_2
+Added Net: Name=OPEN_TX
+Added Pin To Net: NetName=RED_LED Pin=U1-20
+Added Pin To Net: NetName=RED_LED Pin=U?-P2_7
+Added Net: Name=RED_LED
+Added Pin To Net: NetName=RTC_SCL Pin=U1-9
+Added Pin To Net: NetName=RTC_SCL Pin=U?-P2_11
+Added Net: Name=RTC_SCL
+Added Pin To Net: NetName=RTC_SDA Pin=U1-8
+Added Pin To Net: NetName=RTC_SDA Pin=U?-P2_12
+Added Net: Name=RTC_SDA
+Added Pin To Net: NetName=TMP Pin=U1-4
+Added Pin To Net: NetName=TMP Pin=U?-P1_12
+Added Net: Name=TMP
+Added Pin To Net: NetName=VCC Pin=U1-12
+Added Pin To Net: NetName=VCC Pin=U?-P2_3
+Added Net: Name=VCC
+Added Member To Class: ClassName=Nano_Particle_Breakout Member=Component U1 Arduino Nano Every
+Added Member To Class: ClassName=Nano_Particle_Breakout Member=Component U? FEATHER_M0_BASIC_PROTO
+Added Room: Name=Nano_Particle_Breakout

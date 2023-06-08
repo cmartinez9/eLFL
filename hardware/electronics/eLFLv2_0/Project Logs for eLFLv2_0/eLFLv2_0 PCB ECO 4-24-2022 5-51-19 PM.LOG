@@ -1,0 +1,45 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=ADI-TMP3X-T-3
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Added Component: Designator=R3(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U3(RF95)
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-9
+Added Pin To Net: NetName=D8-TP Pin=TP4-1
+Added Pin To Net: NetName=D8-TP Pin=U2-26
+Added Net: Name=D8-TP
+Added Pin To Net: NetName=D9-TP Pin=TP1-1
+Added Pin To Net: NetName=D9-TP Pin=U2-27
+Added Net: Name=D9-TP
+Added Pin To Net: NetName=LORA_CS Pin=U2-28
+Added Pin To Net: NetName=LORA_CS Pin=U3-8
+Added Net: Name=LORA_CS
+Added Pin To Net: NetName=LORA_EN Pin=R3-2
+Added Pin To Net: NetName=LORA_EN Pin=U2-22
+Added Pin To Net: NetName=LORA_EN Pin=U3-3
+Added Net: Name=LORA_EN
+Added Pin To Net: NetName=LORA_G0 Pin=U2-23
+Added Pin To Net: NetName=LORA_G0 Pin=U3-4
+Added Net: Name=LORA_G0
+Added Pin To Net: NetName=LORA_MISO Pin=U2-30
+Added Pin To Net: NetName=LORA_MISO Pin=U3-6
+Added Net: Name=LORA_MISO
+Added Pin To Net: NetName=LORA_MOSI Pin=U2-29
+Added Pin To Net: NetName=LORA_MOSI Pin=U3-7
+Added Net: Name=LORA_MOSI
+Added Pin To Net: NetName=LORA_SCK Pin=U2-1
+Added Pin To Net: NetName=LORA_SCK Pin=U3-5
+Added Net: Name=LORA_SCK
+Change Class Name : Old Net Name=eLFLv1_2 New Net Name=eLFLv2_0
+Added Member To Class: ClassName=eLFLv2_0 Member=Component R3 Res1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U3 RF95 Module
+Added Room: Name=eLFLv2_0

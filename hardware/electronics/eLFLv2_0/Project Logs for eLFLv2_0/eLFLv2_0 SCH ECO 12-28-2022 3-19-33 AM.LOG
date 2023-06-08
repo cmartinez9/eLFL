@@ -1,0 +1,33 @@
+Replace Part 12V Testpoint in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part 12 V Battery Input 1729128 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part 12VLOAD Testpoint in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part 12Voltage Sensor Voltage Sense in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Voltage Sense from eLFLv2_0.SCHLIB
+Replace Part Arduino Nano Every ABX00053 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with ABX00053 from eLFLv2_0.SCHLIB
+Replace Part BATT1 Testpoint in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part Battery Charge Control Output1 1729128 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part Battery Current Sensor1 Current Sense in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Current Sense from eLFLv2_0.SCHLIB
+Replace Part C1 Cap in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C4 106CKS450MLU in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 106CKS450MLU from eLFLv2_0.SCHLIB
+Replace Part C5 Cap in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C6 106CKS450MLU in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 106CKS450MLU from eLFLv2_0.SCHLIB
+Replace Part Door Sensor1 1729128 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part DS1 Testpoint in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part FUSE1-2A 3568 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 3568 from eLFLv2_0.SCHLIB
+Replace Part FUSE2-2A 3568 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 3568 from eLFLv2_0.SCHLIB
+Replace Part FUSE3-5A 3568 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 3568 from eLFLv2_0.SCHLIB
+Update Managed Component Green LED From CMP-2000-06411-1[HLMP-3301] To CMP-2000-06411-1[HLMP-3301] in eLFLv2_0.SchDoc
+Replace Part LOAD1 1729128 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part LOAD2 1729128 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part Load Current Sensor1 Current Sense in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Current Sense from eLFLv2_0.SCHLIB
+Replace Part Load Output1 1729128 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part Lora Module1 RF95 Module in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with RF95 Module from eLFLv2_0.SCHLIB
+Replace Part Lora Test Points1 Lora_Testpoints in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Lora_Testpoints from eLFLv2_0.SCHLIB
+Replace Part OpenLog Open Log in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Open Log from eLFLv2_0.SCHLIB
+Replace Part R1 Res1 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R2 Res1 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R3 Res1 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R4 Res1 in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Update Managed Component Red LED From CMP-2000-06411-1[HLMP-3301] To CMP-2000-06411-1[HLMP-3301] in eLFLv2_0.SchDoc
+Replace Part RTC RTC Breakout Board in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with RTC Breakout Board from eLFLv2_0.SCHLIB
+Replace Part Temp Sense Testpoint in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part TX1 Testpoint in C:\Users\mridh\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB

@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator= NewDesignator=Temp Sense
+Change Component Designator: OldDesignator=BATT NewDesignator=BATT1
+Change Component Designator: OldDesignator=Battery Charge Control Output NewDesignator=Battery Charge Control Output1
+Change Component Designator: OldDesignator=Door Sensor NewDesignator=Door Sensor1
+Change Component Designator: OldDesignator=FUSE(2A) NewDesignator=FUSE1-2A
+Change Component Designator: OldDesignator=FUSE (2A) NewDesignator=FUSE2-2A
+Change Component Designator: OldDesignator=FUSE(5A) NewDesignator=FUSE3-5A
+Change Component Designator: OldDesignator=Load Charge Ouput NewDesignator=Load Charge Output
+Added Component: Designator=12Voltage Sensor(Voltage Sensor)
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=GND Pin=12Voltage Sensor-1
+Added Pin To Net: NetName=Net12Voltage Sensor_2 Pin=12Voltage Sensor-2
+Added Pin To Net: NetName=GND Pin=12Voltage Sensor-3
+Added Pin To Net: NetName=Net12Voltage Sensor_4 Pin=12Voltage Sensor-4
+Added Pin To Net: NetName=Net12Voltage Sensor_5 Pin=12Voltage Sensor-5
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 12Voltage Sensor Voltage Sensor
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Temp Sense Test Point
+Added Room: Name=eLFLv2_0

@@ -1,0 +1,36 @@
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 5V Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 12V Battery Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 12V Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Battery Fuse 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component BATT Test Point
+Add Class Member: Failed to add class member : Component BC1 Buck Converter
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C1 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D7 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D8 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D9 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Door Sensor Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component DS Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component GND Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Green HLMP-3301
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Output of Batt Charger Terminal Connector
+Add Class Member: Failed to add class member : Component P1 ACS723
+Add Class Member: Failed to add class member : Component P3 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P5 Real Time Clock
+Add Class Member: Failed to add class member : Component Q Voltage Sensor
+Added Member To Class: ClassName=eLFLv2_0 Member=Component R1 Res1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Red HLMP-3301
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TX Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U2 ABX00053
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U4 Lora_Testpoints
+Added Member To Class: ClassName=eLFLv2_0 Member=Component USB1 Fuse 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component USB2 Fuse 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component VCC Test Point
+Added Room: Name=eLFLv2_0

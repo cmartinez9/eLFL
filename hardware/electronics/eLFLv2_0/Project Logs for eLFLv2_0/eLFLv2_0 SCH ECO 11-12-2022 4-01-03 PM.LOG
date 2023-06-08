@@ -1,0 +1,34 @@
+Change Component Designator: Old Designator=*? New Designator=*1
+Change Component Designator: Old Designator=? New Designator=1
+Change Component Designator: Old Designator=? New Designator=2
+Change Component Designator: Old Designator=BATT? New Designator=BATT1
+Change Component Designator: Old Designator=Battery Charge Control Output? New Designator=Battery Charge Control Output1
+Change Component Designator: Old Designator=Battery Current Sensor? New Designator=Battery Current Sensor1
+Change Component Designator: Old Designator=C? New Designator=C1
+Change Component Designator: Old Designator=D? New Designator=D1
+Change Component Designator: Old Designator=D? New Designator=D2
+Change Component Designator: Old Designator=D? New Designator=D3
+Change Component Designator: Old Designator=Door Sensor? New Designator=Door Sensor1
+Change Component Designator: Old Designator=DS? New Designator=DS1
+Change Component Designator: Old Designator=GND? New Designator=GND1
+Change Component Designator: Old Designator=Green? New Designator=Green1
+Change Component Designator: Old Designator=Load Current Sensor? New Designator=Load Current Sensor1
+Change Component Designator: Old Designator=Load Output? New Designator=Load Output1
+Change Component Designator: Old Designator=Lora Module? New Designator=Lora Module1
+Change Component Designator: Old Designator=Lora Test Points? New Designator=Lora Test Points1
+Change Component Designator: Old Designator=P? New Designator=P1
+Change Component Designator: Old Designator=R? New Designator=R1
+Change Component Designator: Old Designator=R? New Designator=R2
+Change Component Designator: Old Designator=R? New Designator=R3
+Change Component Designator: Old Designator=R? New Designator=R4
+Change Component Designator: Old Designator=Red? New Designator=Red1
+Change Component Designator: Old Designator=ST? New Designator=ST1
+Change Component Designator: Old Designator=ST? New Designator=ST2
+Change Component Designator: Old Designator=ST? New Designator=ST3
+Change Component Designator: Old Designator=ST? New Designator=ST4
+Change Component Designator: Old Designator=Temperature Sensor? New Designator=Temperature Sensor1
+Change Component Designator: Old Designator=TX? New Designator=TX1
+Change Component Designator: Old Designator=U? New Designator=U1
+Change Component Designator: Old Designator=USB? New Designator=USB1
+Change Component Designator: Old Designator=USB? New Designator=USB2
+Change Component Designator: Old Designator=VCC? New Designator=VCC1

@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Pin From Net: NetName=GND Pin=T2-2
+Removed Pin From Net: NetName=DOOR SENSE Pin=T5-1
+Removed Pin From Net: NetName=GND Pin=T5-2
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Component Footprint: Designator=T3 Old Footprint=Terminal Block New Footprint=Anderson Power Pole
+Change Component Footprint: Designator=T4 Old Footprint=Terminal Block New Footprint=Anderson Power Pole
+Change Footprint: Footprint Not Found PTH-M2D5X5
+Change Footprint: Footprint Not Found PTH-M2D5X5
+Change Footprint: Footprint Not Found PTH-M2D5X5
+Change Component Comment : Designator=T1 Old Comment=Terminal Connector New Comment=Mounting Hole
+Change Component Comment : Designator=T2 Old Comment=Terminal Connector New Comment=Mounting Hole
+Change Component Comment : Designator=T5 Old Comment=Terminal Connector New Comment=Mounting Hole
+Change Component Designator: OldDesignator=T1 NewDesignator=ST1
+Change Component Designator: OldDesignator=T2 NewDesignator=ST2
+Change Component Designator: OldDesignator=T5 NewDesignator=ST3
+Change Component Designator: OldDesignator=USB2 NewDesignator= 
+Change Managed Component Library Link : Designator=ST1 Old VaultGUID= New VaultGUID=8D45CCC9-C2B4-4C9C-B09F-F41FFBBBD64A Old ItemGUID= New ItemGUID=13070280-4437-4D25-9440-3F6402F4FA50 Old RevisionGUID= New RevisionGUID=F9C81B28-96C6-4BB4-9E83-CF8469DB2A44
+Change Managed Component Library Link : Designator=ST2 Old VaultGUID= New VaultGUID=8D45CCC9-C2B4-4C9C-B09F-F41FFBBBD64A Old ItemGUID= New ItemGUID=13070280-4437-4D25-9440-3F6402F4FA50 Old RevisionGUID= New RevisionGUID=F9C81B28-96C6-4BB4-9E83-CF8469DB2A44
+Change Managed Component Library Link : Designator=ST3 Old VaultGUID= New VaultGUID=8D45CCC9-C2B4-4C9C-B09F-F41FFBBBD64A Old ItemGUID= New ItemGUID=13070280-4437-4D25-9440-3F6402F4FA50 Old RevisionGUID= New RevisionGUID=F9C81B28-96C6-4BB4-9E83-CF8469DB2A44
+Change component parameters: Designator = "T1" ("ST1"); Footprint = "Terminal Block"; UniqueID = "\NMAAGCUR" ("\NMAAGCUR")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "T2" ("ST2"); Footprint = "Terminal Block"; UniqueID = "\VENHGSQO" ("\VENHGSQO")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "T5" ("ST3"); Footprint = "Terminal Block"; UniqueID = "\BBKLTBJL" ("\BBKLTBJL")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=Net _1 Pin= -1
+Added Pin To Net: NetName=Net _1 Pin=USB2 Fuse-4
+Added Net: Name=Net _1
+Added Pin To Net: NetName=NetUSB1 Fuse_4 Pin=USB1-1
+Added Pin To Net: NetName=NetUSB1 Fuse_4 Pin=USB1 Fuse-4
+Added Net: Name=NetUSB1 Fuse_4
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Room: Name=eLFLv2_0

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=5V NewDesignator=TP3
+Change Component Designator: OldDesignator=12V NewDesignator=TP2
+Change Component Designator: OldDesignator=DS NewDesignator=TP4
+Change Component Designator: OldDesignator=LORA HEADERS NewDesignator=U4
+Change Component Designator: OldDesignator=RTC NewDesignator=P5
+Change Component Designator: OldDesignator=TX NewDesignator=TP1
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Component: Designator=TP?(0.038_Brass Testpoints)
+Added Pin To Net: NetName=BAT INPUT Pin=TP?-1
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP? Test Point
+Added Room: Name=eLFLv2_0

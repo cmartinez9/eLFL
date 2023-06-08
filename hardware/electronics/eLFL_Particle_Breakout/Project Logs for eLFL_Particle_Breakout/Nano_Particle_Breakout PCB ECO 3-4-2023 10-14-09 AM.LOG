@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=eLFL Plug Old Footprint=MODULE_ABX00028 New Footprint=Arduino Plug
+Change Component Designator: OldDesignator=eLFL Plug NewDesignator=U1
+Change Component Designator: OldDesignator=Particle Boron/Argon NewDesignator=U?
+Added Room: Name=Nano_Particle_Breakout

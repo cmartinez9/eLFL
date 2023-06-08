@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=P1 Old Footprint=Current/Voltage Sensor New Footprint=Current Sensor
+Change Component Footprint: Designator=P3 Old Footprint=Current/Voltage Sensor New Footprint=Current Sensor
+Change Component Footprint: Designator=P4 Old Footprint=Current/Voltage Sensor New Footprint=Voltage Sensor
+Change Component Designator: OldDesignator=P4 NewDesignator=Q
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component T4 Terminal Connector
+Added Room: Name=eLFLv2_0

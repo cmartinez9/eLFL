@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator= NewDesignator=Temp Sense
+Change Component Designator: OldDesignator=F1 NewDesignator=FUSE2-2A
+Change Component Designator: OldDesignator=F2 NewDesignator=FUSE1-2A
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Change Net Name : Old Net Name=NetF1_ 1 New Net Name=NetFUSE2-2A_ 1
+Change Net Name : Old Net Name=NetF1_4 New Net Name=NetFUSE1-2A_4
+Change Net Name : Old Net Name=NetF2_ 1 New Net Name=NetFUSE1-2A_ 1
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Room: Name=eLFLv2_0

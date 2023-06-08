@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=D7-TP Pin=TP7-2
+Removed Pin From Net: NetName=D8-TP Pin=TP8-2
+Removed Pin From Net: NetName=D9-TP Pin=TP9-2
+Change Component Designator: OldDesignator=12 V  NewDesignator=T3 to Current Sense
+Change Component Designator: OldDesignator=12v Current Sense NewDesignator=P3
+Change Component Designator: OldDesignator=Arduino  NewDesignator=U2
+Change Component Designator: OldDesignator=Batt Controller NewDesignator=T5 to Voltage Sense
+Change Component Designator: OldDesignator=Clock NewDesignator=P5
+Change Component Designator: OldDesignator=Door Sensor NewDesignator=T4 to R4
+Change Component Designator: OldDesignator=Load Current Sense NewDesignator=P1
+Change Component Designator: OldDesignator=Lora NewDesignator=U3
+Change Component Designator: OldDesignator=USB1 NewDesignator=T1
+Change Component Designator: OldDesignator=USB2 NewDesignator=T2
+Change Component Designator: OldDesignator=Voltage Sense NewDesignator=Q
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Component: Designator=U4(RF95)
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TPCC-1
+Add Pin To Net: Unknown Pin: Pin TPG-1
+Added Pin To Net: NetName=VCC Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=LORA_EN Pin=U4-3
+Added Pin To Net: NetName=LORA_G0 Pin=U4-4
+Added Pin To Net: NetName=LORA_SCK Pin=U4-5
+Added Pin To Net: NetName=LORA_MISO Pin=U4-6
+Added Pin To Net: NetName=LORA_MOSI Pin=U4-7
+Added Pin To Net: NetName=LORA_CS Pin=U4-8
+Added Pin To Net: NetName=VCC Pin=U4-9
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component T3 to Current Sense 12V Battery
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U4 RF95 Module
+Added Room: Name=eLFLv2_0

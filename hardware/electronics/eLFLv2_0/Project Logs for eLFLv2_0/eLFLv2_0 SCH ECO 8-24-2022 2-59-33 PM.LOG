@@ -1,0 +1,33 @@
+Replace Part 5V Testpoint in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part 12V Testpoint in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part 12V Battery 1729128 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part BATT Testpoint in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part Battery Fuse 3568 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 3568 from eLFLv2_0.SCHLIB
+Replace Part BC1 Buck Converter in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Buck Converter from eLFLv2_0.SCHLIB
+Replace Part C1 106CKS450MLU in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 106CKS450MLU from eLFLv2_0.SCHLIB
+Replace Part C2 Cap in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C3 C3216X6S2A106K160AC in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with C3216X6S2A106K160AC from eLFLv2_0.SCHLIB
+Replace Part C4 C3216X6S2A106K160AC in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with C3216X6S2A106K160AC from eLFLv2_0.SCHLIB
+Replace Part Door Sensor 1729128 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part DS Testpoint in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Update Managed Component Green From CMP-2000-06411-1[HLMP-3301] To CMP-2000-06411-1[HLMP-3301] in eLFLv2_0.SchDoc
+Replace Part I1 RLS-126-R Inductor in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with RLS-126-R Inductor from eLFLv2_0.SCHLIB
+Replace Part Output of Batt Charger 1729128 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part P1 Current Sense in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Current Sense from eLFLv2_0.SCHLIB
+Replace Part P2 Header 6 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Header 6 from Miscellaneous Connectors.IntLib
+Replace Part P3 Current Sense in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Current Sense from eLFLv2_0.SCHLIB
+Replace Part P5 DS1307 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with DS1307 from eLFLv2_0.SCHLIB
+Replace Part Q Voltage Sense in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Voltage Sense from eLFLv2_0.SCHLIB
+Replace Part R1 Res1 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R2 Res1 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R3 Res1 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R4 Res1 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Update Managed Component Red From CMP-2000-06411-1[HLMP-3301] To CMP-2000-06411-1[HLMP-3301] in eLFLv2_0.SchDoc
+Replace Part TX Testpoint in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Testpoint from eLFLv2_0.SCHLIB
+Replace Part U2 ABX00053 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with ABX00053 from eLFLv2_0.SCHLIB
+Replace Part U3 RF95 Module in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with RF95 Module from eLFLv2_0.SCHLIB
+Replace Part U4 Lora_Testpoints in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with Lora_Testpoints from eLFLv2_0.SCHLIB
+Replace Part USB1 1729128 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part USB1 Fuse 3568 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 3568 from eLFLv2_0.SCHLIB
+Replace Part USB2 1729128 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 1729128 from eLFLv2_0.SCHLIB
+Replace Part USB2 Fuse 3568 in C:\Users\Patron\Projects\elfl\elfl\eLFLv2_0\eLFLv2_0.SchDoc with 3568 from eLFLv2_0.SCHLIB

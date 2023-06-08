@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [eLFLv2_0.PcbDoc]
+   Generated File[eLFLv2_0.GTO]
+   Generated File[eLFLv2_0.GTP]
+   Generated File[eLFLv2_0.GTS]
+   Generated File[eLFLv2_0.GTL]
+   Generated File[eLFLv2_0.GBL]
+   Generated File[eLFLv2_0.GBS]
+   Generated File[eLFLv2_0.GBP]
+   Generated File[eLFLv2_0.GBO]
+   Generated File[eLFLv2_0.GM1]
+   Generated File[eLFLv2_0.GM5]
+   Generated File[eLFLv2_0.GM13]
+   Generated File[eLFLv2_0.GM15]
+   Generated File[eLFLv2_0.GKO]
+   Generated File[eLFLv2_0.1]
+   Generated File[eLFLv2_0.GML]
+   Generated File[eLFLv2_0.RUL]
+   Generated File[eLFLv2_0.EXTREP]
+   Generated File[eLFLv2_0.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 4:25:28 AM On 1/2/2023

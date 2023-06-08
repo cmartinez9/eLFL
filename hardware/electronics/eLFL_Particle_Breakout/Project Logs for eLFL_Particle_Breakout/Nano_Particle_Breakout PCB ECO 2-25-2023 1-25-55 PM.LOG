@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=OPEN_TX Pin=U2-P1_2
+Removed Pin From Net: NetName=LORA_MISO Pin=U2-P1_4
+Removed Pin From Net: NetName=LORA_MOSI Pin=U2-P1_5
+Removed Pin From Net: NetName=LORA_SCK Pin=U2-P1_6
+Removed Pin From Net: NetName=LORA_CS Pin=U2-P1_7
+Removed Pin From Net: NetName=BAT_V Pin=U2-P1_9
+Removed Pin From Net: NetName=BAT_CUR Pin=U2-P1_10
+Removed Pin From Net: NetName=LOAD_CUR Pin=U2-P1_11
+Removed Pin From Net: NetName=TMP Pin=U2-P1_12
+Removed Pin From Net: NetName=GND Pin=U2-P1_13
+Removed Pin From Net: NetName=VCC Pin=U2-P1_15
+Removed Pin From Net: NetName=D8_TP Pin=U2-P2_4
+Removed Pin From Net: NetName=D7_TP Pin=U2-P2_5
+Removed Pin From Net: NetName=GRN_LED Pin=U2-P2_6
+Removed Pin From Net: NetName=RED_LED Pin=U2-P2_7
+Removed Pin From Net: NetName=DOOR_SENSE Pin=U2-P2_8
+Removed Pin From Net: NetName=LORA_EN Pin=U2-P2_9
+Removed Pin From Net: NetName=LORA_G0 Pin=U2-P2_10
+Removed Pin From Net: NetName=RTC_SCL Pin=U2-P2_11
+Removed Pin From Net: NetName=RTC_SDA Pin=U2-P2_12
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-26
+Add Pin To Net: Unknown Pin: Pin U2-27
+Add Pin To Net: Unknown Pin: Pin U2-28
+Added Room: Name=Nano_Particle_Breakout

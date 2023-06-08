@@ -1,0 +1,23 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:52:32 AM On 3/4/2023
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [Nano_Particle_Breakout.PcbDoc]
+   Generated File[Nano_Particle_Breakout_Copper_Signal_Top.gbr]
+   Generated File[Nano_Particle_Breakout_Copper_Signal_Bot.gbr]
+   Generated File[Nano_Particle_Breakout_Legend_Top.gbr]
+   Generated File[Nano_Particle_Breakout_Legend_Bot.gbr]
+   Generated File[Nano_Particle_Breakout_Soldermask_Top.gbr]
+   Generated File[Nano_Particle_Breakout_Soldermask_Bot.gbr]
+   Generated File[Nano_Particle_Breakout_Mechanical_1.gbr]
+   Generated File[Nano_Particle_Breakout_PTH_Drill.gbr]
+   Generated File[Nano_Particle_Breakout.EXTREP]
+   Generated File[Nano_Particle_Breakout.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 11:52:34 AM On 3/4/2023

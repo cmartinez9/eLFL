@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=Green1 NewDesignator=Green LED
+Change Component Designator: OldDesignator=Red1 NewDesignator=Red LED
+Change Component Designator: OldDesignator=USB1 NewDesignator=LOAD1
+Change Component Designator: OldDesignator=USB2 NewDesignator=LOAD2
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Change Net Name : Old Net Name=NetGreen1_1 New Net Name=NetGreen LED_1
+Change Net Name : Old Net Name=NetLoad Output1_2 New Net Name=NetLOAD1_2
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Room: Name=eLFLv2_0

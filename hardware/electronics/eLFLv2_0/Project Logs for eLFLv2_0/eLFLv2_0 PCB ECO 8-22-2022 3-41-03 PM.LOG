@@ -1,0 +1,29 @@
+Change Component Comment : Designator=T4 Old Comment=Terminal Connector New Comment=Door Sense
+Change Component Designator: OldDesignator=F1 NewDesignator=USB2 Fuse
+Change Component Designator: OldDesignator=F2 NewDesignator=Battery Fuse
+Change Component Designator: OldDesignator=F3 NewDesignator=USB1 Fuse
+Change Component Designator: OldDesignator=T3 NewDesignator=T3 to Current Sense
+Change Component Designator: OldDesignator=T4 NewDesignator=T4 to R4
+Change Component Designator: OldDesignator=T5 NewDesignator=T5 to Voltage Sense
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=GND Pin=Q-4
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=GND Pin=T5 to Voltage Sense-2
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TPCC-1
+Add Pin To Net: Unknown Pin: Pin TPG-1
+Change Net Name : Old Net Name=NetF1_ 1 New Net Name=NetP1_4
+Change Net Name : Old Net Name=NetF1_4 New Net Name=NetT2_1
+Change Net Name : Old Net Name=NetF2_4 New Net Name=NetBattery Fuse_4
+Change Net Name : Old Net Name=NetF3_4 New Net Name=NetT1_1
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole

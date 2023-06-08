@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=Vin Pin=Load Output1-2
+Removed Pin From Net: NetName=Vin Pin=USB1-2
+Removed Pin From Net: NetName=Vin Pin=USB2-2
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Added Component: Designator=C2(Capacitor)
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CDE Illinois Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "106CKS450MLU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "106CKS450MLU-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Capacitor)
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CDE Illinois Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "106CKS450MLU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "106CKS450MLU-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capacitor)
+Add component (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/16322/ckr-cksseries-16322639.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CDE Illinois Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "106CKS450MLU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "106CKS450MLU-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found Testpoints_Via
+Add Component: Footprint Not Found Testpoints_Via
+Add Pin To Net: Unknown Pin: Pin 1-1
+Add Pin To Net: Unknown Pin: Pin 2-1
+Add Pin To Net: Unknown Pin: Pin BATT1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin Temp Sense-1
+Add Pin To Net: Unknown Pin: Pin TX1-1
+Added Pin To Net: NetName=NetLoad Output1_2 Pin=Load Output1-2
+Added Pin To Net: NetName=NetLoad Output1_2 Pin=USB1-2
+Added Pin To Net: NetName=NetLoad Output1_2 Pin=USB2-2
+Added Net: Name=NetLoad Output1_2
+Add Class Member: Failed to add class member : Component 1 Test Point
+Add Class Member: Failed to add class member : Component 2 Test Point
+Add Class Member: Failed to add class member : Component BATT1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C2 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C4 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C6 10uF
+Add Class Member: Failed to add class member : Component DS1 Test Point
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Add Class Member: Failed to add class member : Component Temp Sense Test Point
+Add Class Member: Failed to add class member : Component TX1 Test Point
+Added Room: Name=eLFLv2_0

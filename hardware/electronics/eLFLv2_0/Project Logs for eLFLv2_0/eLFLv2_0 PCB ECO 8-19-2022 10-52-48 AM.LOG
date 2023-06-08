@@ -1,0 +1,50 @@
+Change Component Footprint: Designator=P5 Old Footprint=21-0043D_8_MXM New Footprint=Real Time Clock
+Change Component Comment : Designator=T3 Old Comment=Terminal Connector New Comment=12V Battery
+Change Component Comment : Designator=T5 Old Comment=Terminal Connector New Comment=Batt Charge
+Change Component Comment : Designator=T1 Old Comment=Terminal Connector New Comment=USB 1
+Change Component Comment : Designator=T2 Old Comment=Terminal Connector New Comment=USB2
+Change Component Designator: OldDesignator=*2 NewDesignator=F1
+Change Component Designator: OldDesignator=*3 NewDesignator=F2
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Change Net Name : Old Net Name=Net*2_4 New Net Name=NetF1_4
+Change Net Name : Old Net Name=Net*3_ 1 New Net Name=NetF2_ 1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component *1 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component BC1 Buck Converter
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C1 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C2 Cap
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C3 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C4 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component DS1 HLMP-3301
+Added Member To Class: ClassName=eLFLv2_0 Member=Component DS2 HLMP-3301
+Added Member To Class: ClassName=eLFLv2_0 Member=Component F1 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component F2 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component I1 12uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P1 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P2 OpenLog
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P3 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P5 Real Time Clock
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Q Voltage Sensor
+Added Member To Class: ClassName=eLFLv2_0 Member=Component R1 Res1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component R2 Res1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component R3 Res1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component R4 Res1
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component T1 USB 1
+Added Member To Class: ClassName=eLFLv2_0 Member=Component T2 USB2
+Added Member To Class: ClassName=eLFLv2_0 Member=Component T3 12V Battery
+Added Member To Class: ClassName=eLFLv2_0 Member=Component T4 Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component T5 Batt Charge
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP7 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP8 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TP9 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TPCC Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component TPG Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U1 TMP36GT9Z
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U2 ABX00053
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U3 RF95 Module

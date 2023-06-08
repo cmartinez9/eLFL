@@ -1,0 +1,71 @@
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Footprint: Footprint Not Found Testpoints_Via
+Change Component Designator: OldDesignator=AD7 NewDesignator=D7
+Change Component Designator: OldDesignator=AD8 NewDesignator=D8
+Change Component Designator: OldDesignator=AD9 NewDesignator=D9
+Change Component Designator: OldDesignator=Arduino Nano Every NewDesignator=U2
+Change Component Designator: OldDesignator=Buck Converter NewDesignator=BC1
+Change Component Designator: OldDesignator=LORA NewDesignator=U3
+Change Component Designator: OldDesignator=LORA Test Point NewDesignator=U4
+Change Component Designator: OldDesignator=Open Log NewDesignator=P2
+Change Component Designator: OldDesignator=Output Charge Controller NewDesignator=Output of Batt Charger
+Change Component Designator: OldDesignator=RTC NewDesignator=P5
+Change Component Designator: OldDesignator=TempSense NewDesignator=U1
+Change Component Designator: OldDesignator=USB1 Fuse(2A) NewDesignator=USB1 Fuse
+Change Component Designator: OldDesignator=USB2 Fuse(2A) NewDesignator=USB2 Fuse
+Added Component: Designator=C3(Ceramic Capacitor)
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C3216X6S2A106K160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.33000, 10=1.05000, 50=0.91000, 100=0.78740, 500=0.59494, 1000=0.52495 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-C3216X6S2A106K160ACDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Ceramic Capacitor)
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C3216X6S2A106K160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.33000, 10=1.05000, 50=0.91000, 100=0.78740, 500=0.59494, 1000=0.52495 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-C3216X6S2A106K160ACDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=I1(Inductor)
+Add component (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Recom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RLS-126-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.92000, 5=0.83400, 10=0.82100, 25=0.79680, 50=0.77280, 100=0.74860, 250=0.72448, 500=0.67620 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1175"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "945-RLS-126-RDKR-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=LOAD INPUT Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetBC1_1 Pin=C4-2
+Added Pin To Net: NetName=NetBC1_1 Pin=I1-1
+Added Pin To Net: NetName=LOAD INPUT Pin=I1-2
+Added Member To Class: ClassName=eLFLv2_0 Member=Component BC1 Buck Converter
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C3 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component C4 10uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component I1 12uF
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Output of Batt Charger Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P5 Real Time Clock
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U2 ABX00053
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U3 RF95 Module
+Added Member To Class: ClassName=eLFLv2_0 Member=Component U4 Lora_Testpoints
+Added Member To Class: ClassName=eLFLv2_0 Member=Component USB1 Fuse 3568
+Added Member To Class: ClassName=eLFLv2_0 Member=Component USB2 Fuse 3568
+Added Room: Name=eLFLv2_0

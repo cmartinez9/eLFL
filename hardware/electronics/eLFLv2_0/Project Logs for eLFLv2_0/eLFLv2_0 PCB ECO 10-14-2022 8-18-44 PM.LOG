@@ -1,0 +1,31 @@
+Added Component: Designator=P1(Current Sensor)
+Added Component: Designator=P3(Current Sensor)
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=LOAD_CUR Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=LOAD INPUT Pin=P1-5
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=BAT_CUR Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=LOAD INPUT Pin=P3-4
+Added Pin To Net: NetName=BAT INPUT Pin=P3-5
+Add Class Member: Failed to add class member : Component BC1 Buck Converter
+Add Class Member: Failed to add class member : Component Output of Batt Charger Terminal Connector
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P1 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component P3 ACS723
+Add Class Member: Failed to add class member : Component P5 Real Time Clock
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Add Class Member: Failed to add class member : Component U2 ABX00053
+Add Class Member: Failed to add class member : Component U3 RF95 Module
+Add Class Member: Failed to add class member : Component U4 Lora_Testpoints
+Add Class Member: Failed to add class member : Component USB1 Fuse 3568
+Add Class Member: Failed to add class member : Component USB2 Fuse 3568
+Added Room: Name=eLFLv2_0

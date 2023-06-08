@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetF1_4 Pin=Arduino Nano-15
+Change Component Designator: OldDesignator= NewDesignator=Temp Sense
+Change Component Designator: OldDesignator=5V Load NewDesignator=2
+Change Component Designator: OldDesignator=12V NewDesignator=1
+Change Component Designator: OldDesignator=12 Voltage Sensor NewDesignator=12Voltage Sensor
+Change Component Designator: OldDesignator=Arduino Nano NewDesignator=U1
+Change Component Designator: OldDesignator=BATT NewDesignator=BATT1
+Change Component Designator: OldDesignator=Battery Charge Control Output NewDesignator=Battery Charge Control Output1
+Change Component Designator: OldDesignator=Battery Current Sensor NewDesignator=Battery Current Sensor1
+Change Component Designator: OldDesignator=D7 NewDesignator=D3
+Change Component Designator: OldDesignator=D8 NewDesignator=D2
+Change Component Designator: OldDesignator=D9 NewDesignator=D1
+Change Component Designator: OldDesignator=Door Sensor NewDesignator=Door Sensor1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=Green NewDesignator=Green1
+Change Component Designator: OldDesignator=Load Current Sensor NewDesignator=Load Current Sensor1
+Change Component Designator: OldDesignator=Load Output NewDesignator=Load Output1
+Change Component Designator: OldDesignator=Lora Module NewDesignator=Lora Module1
+Change Component Designator: OldDesignator=Lora Test Points NewDesignator=Lora Test Points1
+Change Component Designator: OldDesignator=Red NewDesignator=Red1
+Change Component Designator: OldDesignator=Temperature Sensor NewDesignator=Temperature Sensor1
+Change Component Designator: OldDesignator=VCC NewDesignator=VCC1
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Add Component: Footprint Not Found PTH-M2D5X5
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 2 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component 12Voltage Sensor Voltage Sensor
+Added Member To Class: ClassName=eLFLv2_0 Member=Component BATT1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Battery Current Sensor1 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D2 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component D3 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component GND1 Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Load Current Sensor1 ACS723
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Lora Module1 RF95 Module
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Lora Test Points1 Lora_Testpoints
+Add Class Member: Failed to add class member : Component ST1 Mounting Hole
+Add Class Member: Failed to add class member : Component ST2 Mounting Hole
+Add Class Member: Failed to add class member : Component ST3 Mounting Hole
+Add Class Member: Failed to add class member : Component ST4 Mounting Hole
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Temperature Sensor1 TMP36GT9Z
+Added Member To Class: ClassName=eLFLv2_0 Member=Component Temp Sense Test Point
+Added Member To Class: ClassName=eLFLv2_0 Member=Component VCC1 Test Point
+Added Room: Name=eLFLv2_0
