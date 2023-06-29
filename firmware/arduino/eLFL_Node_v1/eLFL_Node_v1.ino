@@ -132,8 +132,6 @@ void loop() {
   sendPacket();
 #endif
   doc.clear();
-  Serial.print("Delay for: ");
-  Serial.println(readDelay);
   delay(readDelay);
   // delay(logTime - delayTime*avgSamples);
   //LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
@@ -172,7 +170,7 @@ bool initSensors() {
     // following line sets the RTC to the date & time this sketch was compiled
     rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
   }
-
+ 
 #endif
 }
 

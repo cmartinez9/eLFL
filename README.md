@@ -14,6 +14,19 @@
 
 [Insert step-by-step instructions for installing your project. This could include how to set up Altium Designer, how to upload the Arduino code, and how to install any required Python libraries.]
 
+* **eLFL Node** 
+    
+    * Arduino IDE
+        * Open eLFL_Node_v1.ino
+        * Download [RadioHead.h](http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.122.zip)
+        * Go to "Sketch" -> "Include Library" -> "Add .ZIP Library" -> Select downloaded RadioHead library
+        
+
+* **eLFL Base**
+
+
+
+
 ## Bill of Materials
 
 |Quantity|Part Number|Desription|Supplier Link|Unit Price|Group|
