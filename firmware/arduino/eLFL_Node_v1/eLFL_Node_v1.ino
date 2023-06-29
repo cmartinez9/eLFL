@@ -1,4 +1,7 @@
-it
+#include <ArduinoJson.h>
+#include <ArduinoJson.hpp>
+
+
 /* electric Little Free Library - v0
   Author: Maitreyee Marathe
   Last modified: Apr 1, 2022
@@ -23,27 +26,27 @@ it
 */
 
 // Date and time functions using a DS1307 RTC connected via I2C and Wire lib
-#include <LowPower.h>
-#include <RadioHead.h>
-#include <RH_RF95.h>
+//#include <LowPower.h>
+//#include <RadioHead.h>
+//#include <RH_RF95.h>
 #include "RTClib.h"
-#include <ArduinoJson.h>
-#include <ArduinoJson.hpp>
+// #include <ArduinoJson.h>
+// #include <ArduinoJson.hpp>
 
 RTC_DS1307 rtc;
 
-#define NODE_ID 3
+#define NODE_ID 23
 
 #define TEMP_SENSE
 #define LOAD_SENSE
 #define CUR_SENSE
 #define V_SENSE
-#define DOOR_SENSE
-#define LORA_ACTIVE
+//#define DOOR_SENSE
+//#define LORA_ACTIVE
 //#define OPEN_LOG_ACTIVE
 #define RTC_ACTIVE
 
-#define MODEM_CONFIG 2
+#define MODEM_CONFIG 21
 
 // +2 to +20, 13 default
 // #define TX_POWER 23
@@ -56,7 +59,9 @@ RTC_DS1307 rtc;
 #define CR 5
 #define EN 4
 
+#ifdef LORA_ACTIVE
 RH_RF95 rf95(10, 3);
+#endif
 
 #define TEMP_PIN A0
 #define LOAD_PIN A1
@@ -72,6 +77,10 @@ int iBatt_value = 0;
 int temperature_value = 0;
 int vBatt_value = 0;
 int door_value = 0;
+// delay time for every 10 minutes
+unsigned long minute = 10;
+unsigned long readDelay = minute * 60000;
+
 float vBatt = 0;
 const float sensitivity = 2.5;  // current sensor sensitivity
 const float Vref_Load = 2500;   // load current sensor output voltage with no current
@@ -123,8 +132,11 @@ void loop() {
   sendPacket();
 #endif
   doc.clear();
-  delay(1000);
-  LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
+  Serial.print("Delay for: ");
+  Serial.println(readDelay);
+  delay(readDelay);
+  // delay(logTime - delayTime*avgSamples);
+  //LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
 }
 
 bool initSensors() {
@@ -279,7 +291,7 @@ bool chngLedStatus() {
     Serial.println("NO LED CHANGE");
   }
 }
-
+#ifdef LORA_ACTIVE
 bool initLoRa() {
   // pinMode(EN, OUTPUT);
   // digitalWrite(EN, HIGH);
@@ -327,3 +339,5 @@ bool sendPacket() {
     Serial.println("");
   }
 }
+#endif
+
