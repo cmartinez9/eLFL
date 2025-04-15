@@ -73,6 +73,8 @@ Maitreyee Marathe (mmarathe@wisc.edu)
 
 Mridhul Baskaran (mbaskaran@wisc.edu)
 
+Joshika Nachiappan (nachiappanra@wisc.edu)
+
 Savannah Ahnen (sahnen@wisc.edu)
 
 Giri Venkataramanan (giri@engr.wisc.edu)
