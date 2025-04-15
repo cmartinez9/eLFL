@@ -2,17 +2,15 @@
 
 ## Description
 
-[Insert brief description of your project here. This could include what it does, why it's useful, or what problem it solves.]
+An electric Little Free Library (eLFL) is a regular Little Free Library retrofitted with a solar PV panel, battery storage, and charging electronics. It is developed by students at UW-Madison in collaboration with the Great Lakes Community Conservation Corps (GLCCC). It serves as a way to provide free community access to clean electricity. 
 
 ## Requirements
 
-- Altium Designer [Used 22]
+- Altium Designer 
 - Arduino IDE [Used 2.0.4]
 - Python
 
 ## Installation
-
-[Insert step-by-step instructions for installing your project. This could include how to set up Altium Designer, how to upload the Arduino code, and how to install any required Python libraries.]
 
 * **eLFL Node** 
     
@@ -21,8 +19,6 @@
         * Download [RadioHead.h](http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.122.zip)
         * Go to "Sketch" -> "Include Library" -> "Add .ZIP Library" -> Select downloaded RadioHead library
         
-
-* **eLFL Base**
 
 
 
@@ -51,7 +47,7 @@
 
 ## Usage
 
-[Insert instructions for how to use your project. This could include how to run the Python app, how to connect to the embedded device, and any important considerations or warnings.]
+Use a 12V battery, Solar Charge Controller, Solar Panel, and Printed Circuit Board.
 
 ## Contributing
 
